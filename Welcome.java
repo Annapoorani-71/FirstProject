@@ -9,4 +9,5 @@ int n2=Integer.parseInt(arr[1]);
 System.out.println(n1);
 System.out.println(n2);
 }
+  return 0;
 }
